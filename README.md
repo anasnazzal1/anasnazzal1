@@ -1,4 +1,3 @@
-# interface-github
 # 💫 About Me:
 👋 Hi, I'm Anas nazzal!<br>I am a Computer Science student at Arab American University, specializing in Front-End Development with knowledge of Back-End Development. I have experience working with HTML, CSS, JavaScript, and ASP.NET Core, along with MySQL for database management.<br><br>Currently, I am enhancing my Full Stack Development skills through training at Knowledge Academy under Mr. Tariq Shreim, where I also focus on problem-solving, data structures, and algorithms.<br><br>💡 Projects & Experience:<br>Hekto Project – Developed a responsive user interface.<br><br>Al-Aqsa Academy Website – Improved both front-end and back-end platforms.<br><br>I am passionate about continuous learning, innovation, and collaborative problem-solving. I love adapting to new technologies and challenging myself to build creative and efficient solutions.<br><br>📫 Let's connect and create something amazing!
 
